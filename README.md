@@ -1,5 +1,6 @@
 <a href="http://travis-ci.org/cdnjs/cdnjs"><img src="https://secure.travis-ci.org/cdnjs/cdnjs.png" alt="Build Status" style="max-width:100%;"></a>
 
+Testing Travis CI...
 
 # cdnJS Script Repository
 
